@@ -33,7 +33,7 @@ All you need is:
 ✔ Certificates help demonstrate your foundational knowledge in cyber security  
 ✔ Useful for resumes, portfolios, and LinkedIn profiles  
 
-![cert]()
+![cert](https://github.com/Deeptig9138/Pre-Security-THM/blob/main/screenshots/Pre-Security.png)
 
 ---
 
